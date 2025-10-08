@@ -1,4 +1,3 @@
-# git-practice-
 
 -Tên đề thi: Git final exam
 
